@@ -1,0 +1,23 @@
+{
+  "name": "sendgrid-email",
+  "version": "1.0.0",
+  "description": "Send Email using SendGrid API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarangpatel/sendgrid-email.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarangpatel/sendgrid-email/issues"
+  },
+  "homepage": "https://github.com/sarangpatel/sendgrid-email#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.2"
+  }
+}
