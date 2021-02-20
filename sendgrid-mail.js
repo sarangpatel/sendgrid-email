@@ -1,5 +1,5 @@
 const sgMail = require("@sendgrid/mail");
-sgMail.setApiKey("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");
+sgMail.setApiKey("XXXXXXXXXX- SENT you on Slack to update here ");
 
 /*d-a67a394b864d424885f9b87d1921c76b = signupcofoimration
 d-a8801738d21544908d4006365ce3432f = pssword reset email
